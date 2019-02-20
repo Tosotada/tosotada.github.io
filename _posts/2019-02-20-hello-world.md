@@ -1,8 +1,8 @@
 ---
-title: "Hello world!"
+title: "Hola mundo!"
 published: true
 ---
 
-**Hello world**, this is my first blog post.
+**Hola mundo**, este es mi primer artículo en el blog.
 
-NOTE: This is just a test!
+NOTA: Esto es solo una prueba!
