@@ -16,12 +16,14 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Awesome Lists
+    web_url: https://github.com/topics/awesome
+    image_url: https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png
 
-  - name: Web design
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/a3520d60fbf9b0bdd0b7d563a1a3ed596acd8489/topics/android/android.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Firefox
+    web_url: https://github.com/topics/firefox
+    image_url: https://raw.githubusercontent.com/github/explore/266f57d012e714b60c666356beeb7e58541218b4/topics/firefox/firefox.png
